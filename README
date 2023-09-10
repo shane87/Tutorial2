@@ -16,6 +16,6 @@ You should have received a copy of the GNU General Public License along
 with this program; if not, write to the Free Software Foundation, Inc.,
 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
-This is a simple CLI-based student tracking program.
+This is a simple CLI-based student information program.
 I created this as a simple example to share with my children, to help them
 understand C++ code, OOP, MSVS, and git/GitHub.
